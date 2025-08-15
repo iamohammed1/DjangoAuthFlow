@@ -60,16 +60,12 @@ A clean, modern authentication system built with Django featuring:
 
 ## Screenshots 📸
 
-| Login Page | Registration Page | Protected Page |
-|------------|-------------------|----------------|
-| ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Protected](screenshots/protected.png) |
+https://github.com/iamohammed1/DjangoAuthFlow/blob/main/log-in.png?raw=true
+https://github.com/iamohammed1/DjangoAuthFlow/blob/main/home.png?raw=true
 
-| Home Page |
-|-----------|---------------------|
-| ![Home]([screenshots/home.png](https://github.com/user-attachments/assets/5a58acd2-c8a6-4b15-aca0-35326ccbef88))
 
 ## Installation ⚙️
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/DjangoAuthFlow.git
+git clone https://github.com/iamohammed1/DjangoAuthFlow.git
 cd DjangoAuthFlow
