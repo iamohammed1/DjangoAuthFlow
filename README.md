@@ -59,9 +59,10 @@ A clean, modern authentication system built with Django featuring:
 - Blue & white theme with smooth interactions
 
 ## Screenshots 📸
-
+log in
 ![image alt](https://github.com/iamohammed1/DjangoAuthFlow/blob/3d27b57c408484e758c08d0b2ba7498f4fcb42a2/log-in.png)
-[https://github.com/iamohammed1/DjangoAuthFlow/blob/main/home.png?raw=true](https://github.com/iamohammed1/DjangoAuthFlow/blob/dacec52db2e03fda6227ee0b7b25ca11d6013e8d/home.png)
+home
+![image alt](https://github.com/iamohammed1/DjangoAuthFlow/blob/dacec52db2e03fda6227ee0b7b25ca11d6013e8d/home.png)
 
 
 ## Installation ⚙️
