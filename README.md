@@ -64,9 +64,9 @@ A clean, modern authentication system built with Django featuring:
 |------------|-------------------|----------------|
 | ![Login](screenshots/login.png) | ![Register](screenshots/register.png) | ![Protected](screenshots/protected.png) |
 
-| Home Page | Logout Confirmation |
+| Home Page |
 |-----------|---------------------|
-| ![Home](screenshots/home.png) | ![Logout](screenshots/logout.png) |
+| ![Home]([screenshots/home.png](https://github.com/user-attachments/assets/5a58acd2-c8a6-4b15-aca0-35326ccbef88))
 
 ## Installation ⚙️
 1. Clone repository:
